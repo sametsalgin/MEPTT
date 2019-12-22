@@ -6,7 +6,6 @@ import sys
 import datetime
 from timeit import default_timer
 import sendToMailPsql
-import socialMedia
 import multiprocessing
 import psutil
 def main():
